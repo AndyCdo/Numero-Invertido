@@ -1,0 +1,13 @@
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.exe
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.deps.json
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.runtimeconfig.json
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.runtimeconfig.dev.json
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.dll
+E:\work\repos\Numero-Invertido\bin\Debug\netcoreapp3.1\Numero-Invertido.pdb
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.csprojAssemblyReference.cache
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.AssemblyInfoInputs.cache
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.AssemblyInfo.cs
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.csproj.CoreCompileInputs.cache
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.dll
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.pdb
+E:\work\repos\Numero-Invertido\obj\Debug\netcoreapp3.1\Numero-Invertido.genruntimeconfig.cache
